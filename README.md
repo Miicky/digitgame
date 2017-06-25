@@ -2,14 +2,18 @@
 
 ### Based on Telegram Bot API and Google Spreadsheet
 
-> Гра основана на переписці з ботом, який загадав чотирьохзначне число. Ваша ціль відгадати його!  
+> The game is based on a conversation with the bot, which has conceived a four-digit number. Your goal is to guess it!
 
+## What Used
+  * [Google App Script](https://developers.google.com/apps-script/) backend
+  * [Google Spreadsheet](https://www.google.com/sheets/about/) database
+  * [TelegramBotApi](https://telegram.org/blog/bot-revolution) frontend
 ## Installation
 * Copy this Google Spreadsheet
 * Create Telegram bot
 * Add TELEGRAM token
 * Build web application from script
-* add webhook telegram with app url
+* add Webhook telegram with app url
 
 ## Usage example
 Image
@@ -23,7 +27,7 @@ Image
     * Create main logic
 
 ## Help
-> Якщо ви знайшли якісь помилки, зауваження або просто поганий код - відкривайте питання. Буду вдячний, якщо будуть пул реквести!
+> If you find any errors, bugs, comments, improvement or just bad code - open a issue. It would be grateful if there will be a pull request!
 
 ## Next releases
 * Release 1.0.1
