@@ -1,1 +1,0 @@
-var APPURL = "YOUR APP URL";
