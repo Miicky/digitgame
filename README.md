@@ -16,7 +16,7 @@
 * add Webhook telegram with app url
 
 ## Usage example
-Image
+![how to use](https://raw.githubusercontent.com/Miicky/digitsgame/master/img/digit.gif)
 
 ## Dependencies
 * Gmail account
